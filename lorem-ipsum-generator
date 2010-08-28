@@ -21,6 +21,5 @@ md5sums=('318b3c890ffa575c6467d033785b2f0f')
 build() {
     cd $srcdir/$pkgname-$pkgver
     python setup.py install --root=$pkgdir/ --optimize=1
-    install -D -m644 COPYING $pkgdir/usr/share/licenses/$pkgname/LICENSE
 
 }
