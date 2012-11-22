@@ -1,11 +1,11 @@
 # Contributor: Pascal Wittmann <mail@pascal-wittmann.de>
 pkgname=latex-tikz-er2
 pkgver=0.0
-pkgrel=1
+pkgrel=2
 pkgdesc="A LaTeX Package for Drawing Entity-Relationship Diagrams based on Tikz"
 arch=('any')
 url="https://www.assembla.com/spaces/tikz-er2/wiki"
-license=('Creative Commons Attribution 2.5 Generic License.')
+license=('CC Attribution 2.5 Generic License.')
 depends=('texlive-core')
 install=$pkgname.install
 source=(http://svn2.assembla.com/svn/tikz-er2/tikz-er2.sty)
