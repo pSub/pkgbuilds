@@ -1,1 +1,6 @@
 This is just a personal collection of PKGBUILDS for Arch Linux.
+
+NOTICE: As I am no longer using Arch Linux I decided to drop
+maintenance of my packages with the switch to aur4. Feel free
+to adopt every package that has not already found a new
+maintainer.
